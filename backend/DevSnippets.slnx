@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="DevSnippets.API/DevSnippets.API.csproj" />
+  <Project Path="DevSnippets.Application/DevSnippets.Application.csproj" />
+  <Project Path="DevSnippets.Domain/DevSnippets.Domain.csproj" />
+  <Project Path="DevSnippets.Infrastructure/DevSnippets.Infrastructure.csproj" />
+</Solution>

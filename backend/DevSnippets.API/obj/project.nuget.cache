@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "9S1RzapJnxE=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\zeped\\Desktop\\SistemasExpertos\\DevSnippets\\backend\\DevSnippets.API\\DevSnippets.API.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\zeped\\.nuget\\packages\\microsoft.aspnetcore.openapi\\10.0.12\\microsoft.aspnetcore.openapi.10.0.12.nupkg.sha512",
+    "C:\\Users\\zeped\\.nuget\\packages\\microsoft.openapi\\2.12.0\\microsoft.openapi.2.12.0.nupkg.sha512"
+  ],
+  "logs": []
+}

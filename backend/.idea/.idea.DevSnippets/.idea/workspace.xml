@@ -15,10 +15,40 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3b98716e-5102-4787-aa10-4e0ca15ff6dc" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.DevSnippets/.idea/.name" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.DevSnippets/.idea/awsToolkit.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.DevSnippets/.idea/indexLayout.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.DevSnippets/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.DevSnippets/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.DevSnippets/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DevSnippets.API/DevSnippets.API.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/DevSnippets.API/DevSnippets.API.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DevSnippets.API/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/DevSnippets.API/Program.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DevSnippets.API/obj/Debug/net10.0/DevSnippets.API.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/DevSnippets.API/obj/Debug/net10.0/DevSnippets.API.AssemblyInfo.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DevSnippets.API/obj/Debug/net10.0/DevSnippets.API.AssemblyInfoInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/DevSnippets.API/obj/Debug/net10.0/DevSnippets.API.AssemblyInfoInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DevSnippets.API/obj/Debug/net10.0/DevSnippets.API.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/DevSnippets.API/obj/Debug/net10.0/DevSnippets.API.assets.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DevSnippets.API/obj/Debug/net10.0/DevSnippets.API.csproj.AssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/DevSnippets.API/obj/Debug/net10.0/DevSnippets.API.csproj.AssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DevSnippets.API/obj/DevSnippets.API.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/DevSnippets.API/obj/DevSnippets.API.csproj.nuget.dgspec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DevSnippets.API/obj/DevSnippets.API.csproj.nuget.g.props" beforeDir="false" afterPath="$PROJECT_DIR$/DevSnippets.API/obj/DevSnippets.API.csproj.nuget.g.props" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DevSnippets.API/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/DevSnippets.API/obj/project.assets.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DevSnippets.API/obj/project.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/DevSnippets.API/obj/project.nuget.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DevSnippets.API/obj/project.packagespec.json" beforeDir="false" afterPath="$PROJECT_DIR$/DevSnippets.API/obj/project.packagespec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DevSnippets.API/obj/rider.project.model.nuget.info" beforeDir="false" afterPath="$PROJECT_DIR$/DevSnippets.API/obj/rider.project.model.nuget.info" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DevSnippets.API/obj/rider.project.restore.info" beforeDir="false" afterPath="$PROJECT_DIR$/DevSnippets.API/obj/rider.project.restore.info" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DevSnippets.Application/obj/Debug/net10.0/DevSnippets.Application.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/DevSnippets.Application/obj/Debug/net10.0/DevSnippets.Application.AssemblyInfo.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DevSnippets.Application/obj/Debug/net10.0/DevSnippets.Application.AssemblyInfoInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/DevSnippets.Application/obj/Debug/net10.0/DevSnippets.Application.AssemblyInfoInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DevSnippets.Application/obj/rider.project.model.nuget.info" beforeDir="false" afterPath="$PROJECT_DIR$/DevSnippets.Application/obj/rider.project.model.nuget.info" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DevSnippets.Application/obj/rider.project.restore.info" beforeDir="false" afterPath="$PROJECT_DIR$/DevSnippets.Application/obj/rider.project.restore.info" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DevSnippets.Domain/obj/Debug/net10.0/DevSnippets.Domain.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/DevSnippets.Domain/obj/Debug/net10.0/DevSnippets.Domain.AssemblyInfo.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DevSnippets.Domain/obj/Debug/net10.0/DevSnippets.Domain.AssemblyInfoInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/DevSnippets.Domain/obj/Debug/net10.0/DevSnippets.Domain.AssemblyInfoInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DevSnippets.Domain/obj/rider.project.restore.info" beforeDir="false" afterPath="$PROJECT_DIR$/DevSnippets.Domain/obj/rider.project.restore.info" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DevSnippets.Infrastructure/DevSnippets.Infrastructure.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/DevSnippets.Infrastructure/DevSnippets.Infrastructure.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DevSnippets.Infrastructure/obj/Debug/net10.0/DevSnippets.Infrastructure.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/DevSnippets.Infrastructure/obj/Debug/net10.0/DevSnippets.Infrastructure.AssemblyInfo.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DevSnippets.Infrastructure/obj/Debug/net10.0/DevSnippets.Infrastructure.AssemblyInfoInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/DevSnippets.Infrastructure/obj/Debug/net10.0/DevSnippets.Infrastructure.AssemblyInfoInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DevSnippets.Infrastructure/obj/Debug/net10.0/DevSnippets.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig" beforeDir="false" afterPath="$PROJECT_DIR$/DevSnippets.Infrastructure/obj/Debug/net10.0/DevSnippets.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DevSnippets.Infrastructure/obj/Debug/net10.0/DevSnippets.Infrastructure.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/DevSnippets.Infrastructure/obj/Debug/net10.0/DevSnippets.Infrastructure.assets.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DevSnippets.Infrastructure/obj/DevSnippets.Infrastructure.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/DevSnippets.Infrastructure/obj/DevSnippets.Infrastructure.csproj.nuget.dgspec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DevSnippets.Infrastructure/obj/DevSnippets.Infrastructure.csproj.nuget.g.props" beforeDir="false" afterPath="$PROJECT_DIR$/DevSnippets.Infrastructure/obj/DevSnippets.Infrastructure.csproj.nuget.g.props" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DevSnippets.Infrastructure/obj/DevSnippets.Infrastructure.csproj.nuget.g.targets" beforeDir="false" afterPath="$PROJECT_DIR$/DevSnippets.Infrastructure/obj/DevSnippets.Infrastructure.csproj.nuget.g.targets" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DevSnippets.Infrastructure/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/DevSnippets.Infrastructure/obj/project.assets.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DevSnippets.Infrastructure/obj/project.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/DevSnippets.Infrastructure/obj/project.nuget.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DevSnippets.Infrastructure/obj/project.packagespec.json" beforeDir="false" afterPath="$PROJECT_DIR$/DevSnippets.Infrastructure/obj/project.packagespec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DevSnippets.Infrastructure/obj/rider.project.model.nuget.info" beforeDir="false" afterPath="$PROJECT_DIR$/DevSnippets.Infrastructure/obj/rider.project.model.nuget.info" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DevSnippets.Infrastructure/obj/rider.project.restore.info" beforeDir="false" afterPath="$PROJECT_DIR$/DevSnippets.Infrastructure/obj/rider.project.restore.info" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -33,6 +63,65 @@
     <urls />
   </component>
   <component name="MetaFilesCheckinStateConfiguration" checkMetaFiles="true" />
+  <component name="NextEditCompletionFeaturesState">
+    <decayedCancelled>
+      <entry key="MS100" value="1.0887547565372922E-74" />
+      <entry key="MS500" value="1.6120778584343737E-15" />
+      <entry key="S2" value="2.0037636933850048E-4" />
+      <entry key="S5" value="0.033169475279681095" />
+      <entry key="S10" value="0.1821248892372514" />
+      <entry key="S30" value="0.5668347063892111" />
+      <entry key="S60" value="0.7528842582955306" />
+      <entry key="M2" value="0.8676890331769386" />
+      <entry key="M5" value="0.9448125281415723" />
+      <entry key="M10" value="0.972014674859167" />
+      <entry key="M15" value="0.9812549963966484" />
+      <entry key="M30" value="0.990583159758255" />
+      <entry key="H1" value="0.9952804427688986" />
+      <entry key="H2" value="0.9976374305171685" />
+      <entry key="H4" value="0.998818016716343" />
+      <entry key="D1" value="0.9998029056961631" />
+      <entry key="W1" value="0.9999718412922538" />
+    </decayedCancelled>
+    <decayedSelected>
+      <entry key="MS100" value="1.00000000002623" />
+      <entry key="MS500" value="1.007651721075169" />
+      <entry key="S2" value="1.2964818415100168" />
+      <entry key="S5" value="1.66966931147623" />
+      <entry key="S10" value="2.019089450930017" />
+      <entry key="S30" value="2.539377745642304" />
+      <entry key="S60" value="2.745942593869983" />
+      <entry key="M2" value="2.8663188302117533" />
+      <entry key="M5" value="2.944829088625651" />
+      <entry key="M10" value="2.9721225171163206" />
+      <entry key="M15" value="2.9813494359079984" />
+      <entry key="M30" value="2.99064175835261" />
+      <entry key="H1" value="2.995312606892609" />
+      <entry key="H2" value="2.9976542313132697" />
+      <entry key="H4" value="2.9988265971147228" />
+      <entry key="D1" value="2.9998043607895295" />
+      <entry key="W1" value="2.9999720497759914" />
+    </decayedSelected>
+    <decayedShown>
+      <entry key="MS100" value="1.681373773005084E-5" />
+      <entry key="MS500" value="0.11104215098342855" />
+      <entry key="S2" value="0.675139881786522" />
+      <entry key="S5" value="1.2609535927875908" />
+      <entry key="S10" value="1.8796896633123084" />
+      <entry key="S30" value="2.9437957436760853" />
+      <entry key="S60" value="3.405947424626789" />
+      <entry key="M2" value="3.6840905185386914" />
+      <entry key="M5" value="3.868756123003989" />
+      <entry key="M10" value="3.93353377785057" />
+      <entry key="M15" value="3.9554992025598557" />
+      <entry key="M30" value="3.9776540117580086" />
+      <entry key="H1" value="3.9888029956600026" />
+      <entry key="H2" value="3.9943954811107183" />
+      <entry key="H4" value="3.997196234601226" />
+      <entry key="D1" value="3.999532496455803" />
+      <entry key="W1" value="3.9999332086514485" />
+    </decayedShown>
+  </component>
   <component name="ProblemsViewState">
     <option name="selectedTabId" value="Toolset" />
   </component>

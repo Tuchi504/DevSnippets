@@ -1,6 +1,12 @@
-@DevSnippets.API_HostAddress = http://localhost:5134
-
-GET {{DevSnippets.API_HostAddress}}/weatherforecast/
+### 1. Obtener todas las tecnologías (Prueba del Verbo GET)
+GET http://localhost:5134/api/Technologies
 Accept: application/json
 
-###
+### 2. Crear una nueva tecnología (Prueba del Verbo POST)
+POST http://localhost:5134/api/Technologies
+Content-Type: application/json
+
+{
+  "name": "Java",
+  "description": "Lenguaje de programación multiplataforma orientado a objetos"
+}

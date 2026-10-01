@@ -1,8 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "1aZp1Dvz2Oc=",
+  "dgSpecHash": "8/3NFm53+pY=",
   "success": true,
   "projectFilePath": "C:\\Users\\zeped\\Desktop\\SistemasExpertos\\DevSnippets\\backend\\DevSnippets.Application\\DevSnippets.Application.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\zeped\\.nuget\\packages\\fluentvalidation\\12.1.1\\fluentvalidation.12.1.1.nupkg.sha512",
+    "C:\\Users\\zeped\\.nuget\\packages\\fluentvalidation.dependencyinjectionextensions\\12.1.1\\fluentvalidation.dependencyinjectionextensions.12.1.1.nupkg.sha512",
+    "C:\\Users\\zeped\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\2.1.0\\microsoft.extensions.dependencyinjection.abstractions.2.1.0.nupkg.sha512"
+  ],
   "logs": []
 }

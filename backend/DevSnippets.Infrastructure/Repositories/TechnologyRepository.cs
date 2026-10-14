@@ -19,6 +19,11 @@ public class TechnologyRepository : ITechnologyRepository
         return await _context.Technologies.ToListAsync();
     }
 
+    public async Task<Technology?> GetByIdAsync(int id)
+    {
+        return await _context.Technologies.FindAsync(id);
+    }
+
     public async Task<Technology> AddAsync(Technology technology)
     {
         await _context.Technologies.AddAsync(technology);
@@ -26,5 +31,19 @@ public class TechnologyRepository : ITechnologyRepository
         await _context.SaveChangesAsync();
 
         return technology;
+    }
+
+    public async Task<int> UpdateAsync(Technology technology)
+    {
+        _context.Technologies.Update(technology);
+
+        return await _context.SaveChangesAsync();
+    }
+
+    public async Task<int> DeleteAsync(Technology technology)
+    {
+        _context.Technologies.Remove(technology);
+        
+        return await _context.SaveChangesAsync();
     }
 }
